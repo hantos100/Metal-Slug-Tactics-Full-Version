@@ -238,3 +238,6 @@ This repository serves as the official landing page for Metal Slug Tactics. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Metal Slug Tactics today!**
+
+---
+**Last updated:** 2026-09-10 14:06:09 UTC
