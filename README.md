@@ -240,4 +240,4 @@ This repository serves as the official landing page for Metal Slug Tactics. The 
 **Get the most recent version of Metal Slug Tactics today!**
 
 ---
-**Last updated:** 2026-11-05 03:14:06 UTC
+**Last updated:** 2026-11-05 11:54:57 UTC
